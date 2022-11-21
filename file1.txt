@@ -1,2 +1,7 @@
 this is text in file 1
 this text is added from b1
+message on line 3
+message on line 4
+message on line 5
+message on line 6
+para
