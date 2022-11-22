@@ -1,4 +1,3 @@
 this is some text in file2
 this text is added from b2
 new text
-random message
